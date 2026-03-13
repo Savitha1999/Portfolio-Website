@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Website/static/css/main.c74e341f.css",
+    "main.js": "/Portfolio-Website/static/js/main.d1fc105e.js",
+    "static/js/453.ace21015.chunk.js": "/Portfolio-Website/static/js/453.ace21015.chunk.js",
+    "static/media/TOUR.png": "/Portfolio-Website/static/media/TOUR.ebb94a2089dba5ccdf09.png",
+    "static/media/Swetha.png": "/Portfolio-Website/static/media/Swetha.30a269146edfd4efe910.png",
+    "static/media/Cementio.png": "/Portfolio-Website/static/media/Cementio.fa551750f1e40ee971c8.png",
+    "static/media/ppcUser.png": "/Portfolio-Website/static/media/ppcUser.ba78f22adac1a7c6a1e8.png",
+    "static/media/rent1.png": "/Portfolio-Website/static/media/rent1.c57adcb0d9c9b4cc79d9.png",
+    "static/media/mythra.png": "/Portfolio-Website/static/media/mythra.ad0d55bac25a6215db80.png",
+    "static/media/Fuoday-V2.png": "/Portfolio-Website/static/media/Fuoday-V2.a02650e1360559038f3a.png",
+    "static/media/Fita.png": "/Portfolio-Website/static/media/Fita.4afce3e1a8d8818c4f89.png",
+    "static/media/Fita .pdf": "/Portfolio-Website/static/media/Fita .502639f36c6a364d95bb.pdf",
+    "static/media/Amazon.png": "/Portfolio-Website/static/media/Amazon.6de8217ad7b34737e1f9.png",
+    "static/media/fuoday-v2-1.png": "/Portfolio-Website/static/media/fuoday-v2-1.05fcbd96591fe61b1a9e.png",
+    "static/media/rent2.png": "/Portfolio-Website/static/media/rent2.7d79207b49b50a9bdb0e.png",
+    "static/media/Fuoday-V3.png": "/Portfolio-Website/static/media/Fuoday-V3.2dc385158bdef1603ed2.png",
+    "static/media/ppcLogin.png": "/Portfolio-Website/static/media/ppcLogin.07ad8303b69fe08459aa.png",
+    "static/media/ppcAdmin.png": "/Portfolio-Website/static/media/ppcAdmin.1d36915b61ff6342b2dd.png",
+    "static/media/rentadmin1.png": "/Portfolio-Website/static/media/rentadmin1.6bfe13aa793d32a2ff2a.png",
+    "static/media/fuoday-v3-2.png": "/Portfolio-Website/static/media/fuoday-v3-2.ed06a44d1bc8d66f55b1.png",
+    "static/media/fuoday-v3-3.png": "/Portfolio-Website/static/media/fuoday-v3-3.aafb7452984575e5139c.png",
+    "static/media/Fuoday-v3-1.png": "/Portfolio-Website/static/media/Fuoday-v3-1.cd29e0594180d80ab0d2.png",
+    "static/media/ppcAdminHome.png": "/Portfolio-Website/static/media/ppcAdminHome.4f4c5a891ad6ced72622.png",
+    "static/media/Savitha_H_Resume.pdf": "/Portfolio-Website/static/media/Savitha_H_Resume.8fd29f0b92f1abe2b69f.pdf",
+    "static/media/ppcUserHome.png": "/Portfolio-Website/static/media/ppcUserHome.dec1080e372c023f163e.png",
+    "static/media/rentadmin2.png": "/Portfolio-Website/static/media/rentadmin2.febc59c010508f9a60c7.png",
+    "static/media/Form.png": "/Portfolio-Website/static/media/Form.4a58a3ec80d55492734f.png",
+    "static/media/fuoday-v2-2.png": "/Portfolio-Website/static/media/fuoday-v2-2.6b4fb1a14513b7f33096.png",
+    "static/media/Portlogo.png": "/Portfolio-Website/static/media/Portlogo.65f07addb78d1a683c5b.png",
+    "static/media/contact.png": "/Portfolio-Website/static/media/contact.cd971d49d226bb158e19.png",
+    "static/media/MYPROFILE.png": "/Portfolio-Website/static/media/MYPROFILE.3565623a8dda2336804a.png",
+    "index.html": "/Portfolio-Website/index.html",
+    "main.c74e341f.css.map": "/Portfolio-Website/static/css/main.c74e341f.css.map",
+    "main.d1fc105e.js.map": "/Portfolio-Website/static/js/main.d1fc105e.js.map",
+    "453.ace21015.chunk.js.map": "/Portfolio-Website/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c74e341f.css",
+    "static/js/main.d1fc105e.js"
+  ]
+}
